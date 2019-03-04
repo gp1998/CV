@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2019.3.4)  4 MAR 2019 10:01
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2019.3.4)  4 MAR 2019 23:52
 entering extended mode
-**Resume_for_Frehers.tex
-(C:\Users\g1485\Documents\GitHub\CV\Resume_for_Frehers.tex
+**C:/Users/g1485/Documents/GitHub/CV/Resume_for_Frehers.tex
+(C:/Users/g1485/Documents/GitHub/CV/Resume_for_Frehers.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for loaded.
 (C:\Users\g1485\Documents\GitHub\CV\resume.cls
@@ -23,6 +23,17 @@ File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
+(C:\CTEX\MiKTeX\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(C:\CTEX\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
 (C:\CTEX\MiKTeX\tex\latex\ltxmisc\parskip.sty
 Package: parskip 2001/04/09 non-zero parskip adjustments
 )
@@ -30,7 +41,7 @@ Package: parskip 2001/04/09 non-zero parskip adjustments
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen103
 \extrarowheight=\dimen104
-\NC@list=\toks14
+\NC@list=\toks15
 \extratabsurround=\skip43
 \backup@length=\skip44
 )
@@ -83,7 +94,7 @@ Package: hycolor 2011/01/30 v1.7 Color options of hyperref/bookmark (HO)
 )
 (C:\CTEX\MiKTeX\tex\latex\graphics\keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
-\KV@toks@=\toks15
+\KV@toks@=\toks16
 )
 (C:\CTEX\MiKTeX\tex\generic\ifxetex\ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
@@ -162,7 +173,7 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@layoutheight=\dimen113
 \Gm@layouthoffset=\dimen114
 \Gm@layoutvoffset=\dimen115
-\Gm@dimlist=\toks16
+\Gm@dimlist=\toks17
 
 (C:\CTEX\MiKTeX\tex\latex\geometry\geometry.cfg))
 (C:\Users\g1485\Documents\GitHub\CV\Resume_for_Frehers.aux)
@@ -201,12 +212,12 @@ File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 \scratchbox=\box27
 \nofMPsegments=\count102
 \nofMParguments=\count103
-\everyMPshowfont=\toks17
+\everyMPshowfont=\toks18
 \MPscratchCnt=\count104
 \MPscratchDim=\dimen117
 \MPnumerator=\count105
 \makeMPintoPDFobject=\count106
-\everyMPtoPDFconversion=\toks18
+\everyMPtoPDFconversion=\toks19
 )))
 Package hyperref Info: Link coloring ON on input line 35.
  (C:\CTEX\MiKTeX\tex\latex\hyperref\nameref.sty
@@ -264,77 +275,43 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 35--35
 [] 
  []
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 35.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 35.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 35.
+LaTeX Font Info:    Try loading font information for U+msa on input line 35.
+(C:\CTEX\MiKTeX\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 35.
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--51
+(C:\CTEX\MiKTeX\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+) [1
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 62--66
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 62--66
-
- []
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.67 \\{
-        \bf Microtunneling}\\
-? 
-
-Overfull \hbox (0.12225pt too wide) in paragraph at lines 67--69
-\OT1/cmr/m/n/10.95 Presented a sem-i-nar on Mi-cro Tun-nel-ing, ex-plain-ing it
--s ad-van-tages over con-ven-tion-al method of drainage
- []
-
-[1
-
-{C:/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}}]
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 129.
- [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 129.
+{C:/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}}] [2]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 101.
+ [3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 101.
 
 (C:\Users\g1485\Documents\GitHub\CV\Resume_for_Frehers.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 129.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 129.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 101.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 101.
 Package rerunfilecheck Info: File `Resume_for_Frehers.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 5220 strings out of 495354
- 76187 string characters out of 3183860
- 164748 words of memory out of 3000000
- 8381 multiletter control sequences out of 15000+200000
- 7639 words of font info for 27 fonts, out of 3000000 for 9000
+ 5511 strings out of 495354
+ 79233 string characters out of 3183860
+ 167236 words of memory out of 3000000
+ 8652 multiletter control sequences out of 15000+200000
+ 9548 words of font info for 36 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 30i,6n,21p,284b,312s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,6n,26p,341b,383s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/CTEX/MiKTeX/fon
 ts/type1/public/amsfonts/cm/cmbx12.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfo
 nts/cm/cmr10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
-CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Resume_for_Frehers.pdf (2 pages, 78024 bytes).
+CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/CTEX/MiKTeX/fonts/typ
+e1/public/amsfonts/symbols/msam10.pfb>
+Output written on Resume_for_Frehers.pdf (3 pages, 93184 bytes).
 PDF statistics:
- 36 PDF objects out of 1000 (max. 8388607)
- 3 named destinations out of 1000 (max. 500000)
+ 44 PDF objects out of 1000 (max. 8388607)
+ 4 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

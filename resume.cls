@@ -1,27 +1,9 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Medium Length Professional CV - RESUME CLASS FILE
-%
-% This template has been downloaded from:
-% http://www.LaTeXTemplates.com
-%
-% This class file defines the structure and design of the template. 
-%
-% Original header:
-% Copyright (C) 2010 by Trey Hunner
-%
-% Copying and distribution of this file, with or without modification,
-% are permitted in any medium without royalty provided the copyright
-% notice and this notice are preserved. This file is offered as-is,
-% without any warranty.
-%
-% Created by Trey Hunner and modified by www.LaTeXTemplates.com
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \ProvidesClass{resume}[2010/07/10 v0.9 Resume class]
 
 \LoadClass[11pt,letterpaper]{article} % Font size and paper type
 
+\usepackage{amssymb}
 \usepackage[parfill]{parskip} % Remove paragraph indentation
 \usepackage{array} % Required for boldface (\bf and \bfseries) tabular columns
 \usepackage{ifthen} % Required for ifthenelse statements
@@ -98,8 +80,9 @@
   \MakeUppercase{\bf #1} % Section title
   \sectionlineskip
   \hrule % Horizontal line
-  \begin{list}{}{ % List for each individual item in the section
-    \setlength{\leftmargin}{1.5em} % Margin within the section
+  \begin{list}{$\blacksquare$}{ % List for each individual item in the section
+    \setlength{\leftmargin}{2em} % Margin within the section
+    \labelsep 1em
   }
   \item[]
 }{
@@ -111,13 +94,15 @@
 %----------------------------------------------------------------------------------------
 
 \newenvironment{rSubsection}[4]{ % 4 input arguments - company name, year(s) employed, job title and location
- {\bf #1} \hfill {#2} % Bold company name and date on the right
+ {\item \bf #1} \hfill {#2} % Bold company name and date on the right
  \ifthenelse{\equal{#3}{}}{}{ % If the third argument is not specified, don't print the job title and location line
   \\
-  {\em #3} \hfill {\em #4} % Italic job title and location
-  }\smallskip
-  \begin{list}{$\cdot$}{\leftmargin=0em} % \cdot used for bullets, no indentation
+  {\em #3} \\ {\em #4} % Italic job title and location
+  }
+  \smallskip
+  \begin{list}{$\bullet$}{\leftmargin=1.5em} % \cdot used for bullets, no indentation
    \itemsep -0.5em \vspace{-0.5em} % Compress items in list together for aesthetics
+  \labelsep 1em
   }{
   \end{list}
   \vspace{0.5em} % Some space after the list of bullet points
